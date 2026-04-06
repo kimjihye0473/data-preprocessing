@@ -1,0 +1,7 @@
+﻿ID,Name,Age,Numeric1,Numeric2,Category,variable,문항1,문항2,문항3,date_raw,hour_raw
+1,Alice,22,1,5,dog,value1-value2-value3,1, , ,20210315 1345,1
+2,Bob,35,,6,,value1-value4-value5,2,2,1,715,2
+3,Charlie,14,3,,cat,vvdfvalue265456, ,3,2,20210315,12
+4,David,55,4,8.2,dogg,value3-value1-value5,2, , ,20210316 0900,22
+5,Eve,42,7,9.5,bird,value1-value222-value3,,1,,07월 15일,11
+6,Frank,29,,4,dog,value6,3,,3,20210401 2359,7
